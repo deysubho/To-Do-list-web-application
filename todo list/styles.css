@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="date"],
+select {
+  margin-right: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+}
+
+li:last-child {
+  border-bottom: none;
+}
+
+.task-category {
+  color: #888;
+}
+
+.task-priority {
+  font-weight: bold;
+}
+
+.delete-btn {
+  float: right;
+  color: #f00;
+  cursor: pointer;
+}
