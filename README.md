@@ -1,2 +1,2 @@
 # Web-development-project
-Basic landing page using HTML and CSS
+Basic To do list web application  using HTML and CSS and javascript
